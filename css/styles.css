@@ -541,7 +541,7 @@ body {
 }
 
 .subscription-input-email {
-  width: 100%;
+  width: 264px;
   height: 40px;
   background-color: transparent;
   border: 1px solid rgba(255, 255, 255, 0.3);
